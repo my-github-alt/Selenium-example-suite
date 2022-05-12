@@ -1,0 +1,16 @@
+{
+  "_supported_browsers": [
+    "chrome",
+    "chromium",
+    "brave",
+    "opera",
+    "firefox",
+    "edge",
+    "ie"
+  ],
+  "browser_name": "chrome",
+  "driver_install_dir": null,
+  "headless": false,
+  "valid_username": "john",
+  "valid_password": "pass"
+}

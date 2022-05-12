@@ -1,0 +1,7 @@
+# Install commands:
+#  python3 -m venv venv
+#  . ./venv/bin/activate  or  .\venv\Scripts\activate
+#  python3 -m pip install --upgrade pip
+#  python3 -m pip install --upgrade -r ./requirements.txt
+selenium==4.1.5
+webdriver-manager==3.5.4
